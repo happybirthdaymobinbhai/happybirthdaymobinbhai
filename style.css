@@ -386,7 +386,8 @@ section .title::after{
 .contact .title::after{
     content: "Last But Not least";
     color: #000000;
-    font-size: 17px;
+    font-size: 16px;
+    font-weight: bolder;
     background-color: #dfd7b8;
 }
 .contact .contact-content .column{
@@ -583,7 +584,8 @@ margin-top: 1000px;}
 .team .title::after{
  background-color: #e0d093;
  color: #000000;
- font-size: 18px;
+ font-size: 17px;
+ font-weight: bolder;
  content: "Happy Birthday";
 }
 .team .carousel .card{
