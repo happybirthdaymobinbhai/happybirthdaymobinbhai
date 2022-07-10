@@ -206,7 +206,7 @@ section .title::after{
 }
 /* about section styling */
 .about .title::after{
-    content: "About This Nonsence";
+
     color: #000000;
     background-color: #dfd7b8;
 }
@@ -386,6 +386,7 @@ section .title::after{
 .contact .title::after{
     content: "Last But Not least";
     color: #000000;
+    font-size: 17px;
     background-color: #dfd7b8;
 }
 .contact .contact-content .column{
@@ -559,6 +560,8 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+    
+
 }
 
 
@@ -580,7 +583,8 @@ margin-top: 1000px;}
 .team .title::after{
  background-color: #e0d093;
  color: #000000;
- content: "Happy Birthday!!";
+ font-size: 18px;
+ content: "Happy Birthday";
 }
 .team .carousel .card{
     background: #e0d093;
