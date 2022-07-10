@@ -206,7 +206,8 @@ section .title::after{
 }
 /* about section styling */
 .about .title::after{
-    content: "Who We Are";
+    content: "About This Nonsence";
+    color: #000000;
     background-color: #dfd7b8;
 }
 #about{
@@ -264,8 +265,8 @@ section .title::after{
 }
 .services .title::after,
 .teams .title::after{
-    background:#dfd7b8;
-    content: "Our Current Events";
+    background:#e0d093;
+    content: "Enjoy:)";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -313,7 +314,6 @@ section .title::after{
 }
 /* teams section styling */
 .teams .title::after{
-    content: "Our Hard Working Executives";
  background-color: #e0d093;
  color: #000000;
 }
@@ -578,9 +578,9 @@ margin-top: 1000px;}
 
 
 .team .title::after{
-    content: "Our Hard Working Executives";
  background-color: #e0d093;
  color: #000000;
+ content: "Happy Birthday!!";
 }
 .team .carousel .card{
     background: #e0d093;
@@ -620,7 +620,7 @@ margin-top: 1000px;}
     border-color: #fff;
 }
 .team{
-    background-color: #e0d093;
+    background-color:#dfd7b8;
 }
 
 
