@@ -314,7 +314,7 @@ section .title::after{
 /* teams section styling */
 .teams .title::after{
     content: "Our Hard Working Executives";
- background-color: #13110c;
+ background-color: #e0d093;
  color: #000000;
 }
 .teams .carousel .card{
@@ -579,7 +579,7 @@ margin-top: 1000px;}
 
 .team .title::after{
     content: "Our Hard Working Executives";
- background-color: #13110c;
+ background-color: #e0d093;
  color: #000000;
 }
 .team .carousel .card{
