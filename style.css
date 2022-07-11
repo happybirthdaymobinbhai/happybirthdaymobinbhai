@@ -220,7 +220,7 @@ section .title::after{
 .about .about-content .left img{
     height: 132px;
     width: 448px;
-    object-fit:fill;
+    object-fit:contain;
     border-radius: 6px;
 }
 .about .about-content .right{
